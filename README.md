@@ -89,6 +89,6 @@ The server manages:
 
 ---
 
-# 🚧 Project Status
+# Project Classes and Connections
 
 <img width="1091" height="878" alt="Chess_Architecture drawio" src="https://github.com/user-attachments/assets/dec9891a-ffb3-46de-abe3-48d7de230226" />
