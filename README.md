@@ -88,3 +88,7 @@ The server manages:
 <img width="1912" height="695" alt="Server Communication" src="https://github.com/user-attachments/assets/fe8e314b-7586-43b6-aa0d-47d099924f77" />
 
 ---
+
+# 🚧 Project Status
+
+<img width="1091" height="878" alt="Chess_Architecture drawio" src="https://github.com/user-attachments/assets/dec9891a-ffb3-46de-abe3-48d7de230226" />
